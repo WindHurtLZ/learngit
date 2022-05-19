@@ -1,1 +1,2 @@
-发斯蒂芬地煞荆防颗粒的健身房
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
